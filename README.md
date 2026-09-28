@@ -27,16 +27,6 @@ Meu objetivo é demonstrar como utilizo análise de dados para responder pergunt
 - Google Analytics
 - HTML e CSS
 
-## Acesso ao portfólio
-
-Após a publicação no GitHub Pages, o portfólio poderá ser acessado em:
-
-```text
-https://SEU-USUARIO.github.io
-```
-
-Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub.
-
 ## Contato
 
 **Euller Fernando**  
